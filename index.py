@@ -44,7 +44,7 @@ def convert_data(input_data, conversion_type):
 
 
 def main():
-    st.title("CSV/JSON Converter")
+    st.title("CSV/JSON Converter 📉")
 
     uploaded_file = st.file_uploader("Choose a file", type=["csv", "json"])
 
